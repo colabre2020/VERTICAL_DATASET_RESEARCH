@@ -1,0 +1,301 @@
+driverID,name,licenseNumber,hireDate,status
+DR0001,Christopher Mcdonald,EQX-462,2017-03-16,Active
+DR0002,James Lopez,4DN 746,2016-04-12,Suspended
+DR0003,Joshua Obrien,WH7 W9X,2017-10-14,Active
+DR0004,Gabrielle Blackburn,WOG-378,2023-07-25,Suspended
+DR0005,Jordan Barnes,034-FZP,2017-12-30,Retired
+DR0006,Carol Warren,8Z-REMS,2024-06-20,Retired
+DR0007,Lisa Johnson,3129 MP,2025-01-23,Retired
+DR0008,Anthony Garrison,NBD W70,2017-06-10,Active
+DR0009,Johnathan Mills,953 RQQ,2024-12-04,Active
+DR0010,David Martin,709-FJB,2016-09-11,Suspended
+DR0011,Mary Lowery,565 CGN,2023-06-02,Active
+DR0012,Melissa Allen,753 FDJ,2023-11-19,Retired
+DR0013,Brett Haynes,5-6253U,2018-01-15,Retired
+DR0014,Brian Simmons,5DO 934,2019-03-01,Suspended
+DR0015,Kayla Adams,942-WPZ,2019-10-30,Suspended
+DR0016,Martha Carlson,5-7001U,2023-07-13,Retired
+DR0017,Joshua Gilmore,5R-PZHP,2022-12-12,Active
+DR0018,Leslie Oliver,4-79500,2015-12-24,Retired
+DR0019,Eric Mosley,ZQD 017,2016-10-06,Suspended
+DR0020,Yvonne Smith,3Y-UCBN,2022-02-26,Suspended
+DR0021,Melanie Holden,720 7TP,2023-06-04,Suspended
+DR0022,Tyler Gonzalez,Y00 4FP,2019-03-06,Suspended
+DR0023,Corey Evans,048QES,2019-04-28,Retired
+DR0024,Anthony Cole,721-HUI,2023-08-18,Suspended
+DR0025,Christopher Brown,LLJ 081,2016-01-24,Active
+DR0026,Candace Perez,652P6,2020-06-10,Suspended
+DR0027,Debra Livingston,809-QQV,2015-09-12,Active
+DR0028,Bradley Rojas,098 SDL,2021-04-03,Retired
+DR0029,Michelle Warren,339-PJE,2020-10-05,Active
+DR0030,Laura Jennings,066-HPR,2020-01-21,Suspended
+DR0031,Jordan Edwards,QDT 118,2020-02-12,Active
+DR0032,Nicholas Jimenez,MKJ 255,2021-03-28,Suspended
+DR0033,Megan Davis,50QL621,2018-09-16,Active
+DR0034,Travis Dunn,LXC 116,2024-09-20,Active
+DR0035,Samantha Wolfe,6G 0820N,2022-06-01,Suspended
+DR0036,Elizabeth Chapman,TOX5395,2020-01-18,Suspended
+DR0037,Michael Jackson,798 YZL,2018-11-27,Retired
+DR0038,Michael Chang,8VH Z93,2023-06-28,Suspended
+DR0039,Ronald Lynch,406-744,2017-06-12,Active
+DR0040,Amber Miller,620489,2022-01-28,Suspended
+DR0041,Peter Cabrera,1S-UIFT,2017-05-30,Active
+DR0042,Jonathan Rojas,5O 7092C,2022-07-30,Suspended
+DR0043,Dave Mckinney,GG3 P1A,2020-09-10,Active
+DR0044,Ellen Stein,SJ 1587,2023-12-29,Suspended
+DR0045,Joshua Berg,473 ZTX,2021-09-07,Active
+DR0046,Christopher Lopez,627 VNI,2017-01-18,Active
+DR0047,George Cole,322-MBY,2019-06-18,Retired
+DR0048,Sarah Cook,UAL 620,2017-03-07,Active
+DR0049,Joshua Moore,0KZ Q66,2017-08-28,Suspended
+DR0050,Thomas Gonzalez,665-BTC,2025-03-03,Retired
+DR0051,Brandon Schmitt,41A V80,2019-08-15,Active
+DR0052,Anthony Hall,UIF-239,2019-02-24,Suspended
+DR0053,John Schwartz,17-ZV43,2017-11-19,Retired
+DR0054,Jose Dickson,04A•936,2020-02-22,Active
+DR0055,Allen Schneider,HAU-338,2020-08-10,Active
+DR0056,Frances Hughes,UGU-131,2022-11-02,Retired
+DR0057,Sean Benitez,5935 AW,2019-12-01,Active
+DR0058,Gary Huerta,1KX E58,2018-05-09,Active
+DR0059,Michael Wiggins,MDT 227,2019-01-21,Suspended
+DR0060,Cassidy Rollins,556G,2020-01-05,Suspended
+DR0061,Jeffrey Lewis,11V 1208,2017-04-10,Active
+DR0062,Susan Miller,107 SYH,2019-02-07,Active
+DR0063,Wesley Smith,085 KFM,2016-07-16,Active
+DR0064,Alvin Mcgrath,8E QQ158,2022-11-13,Suspended
+DR0065,Sarah Gomez,KBR 977,2016-02-18,Suspended
+DR0066,Mario Rodriguez,LGV 323,2015-06-27,Suspended
+DR0067,Charles Maynard,813-PBU,2017-05-23,Suspended
+DR0068,Anne Gonzalez,OBV-404,2019-04-10,Retired
+DR0069,Aaron Taylor,LFC 659,2022-06-14,Active
+DR0070,Jason Skinner,34J 918,2024-02-03,Suspended
+DR0071,Gina Dixon,628-INIY,2019-12-04,Active
+DR0072,Tonya Porter,0GA1276,2016-03-17,Suspended
+DR0073,Chelsea Flores,BXS-505,2018-08-27,Active
+DR0074,Michael Barrett,4ERQ612,2021-09-27,Retired
+DR0075,Caitlin Holland,WLT 1174,2021-03-20,Suspended
+DR0076,Juan Holland,997 TRA,2020-04-25,Retired
+DR0077,David Duncan,327-SHA,2023-04-16,Suspended
+DR0078,Austin Burns,HRC C95,2016-05-21,Retired
+DR0079,Susan Christian,997-KSU,2017-06-05,Active
+DR0080,William Baker,71-34724,2023-03-13,Active
+DR0081,Teresa Hancock,X54 5LQ,2019-02-13,Suspended
+DR0082,Dean Gibbs,HQG J62,2019-05-19,Suspended
+DR0083,Becky Zuniga,43R 397,2016-10-19,Active
+DR0084,David Smith,524 8363,2019-06-10,Retired
+DR0085,Daniel King,822APP,2024-12-04,Retired
+DR0086,Jesse Jackson,2F 59269,2018-10-18,Active
+DR0087,Dr. Veronica Christensen,889398,2017-01-07,Suspended
+DR0088,Jaclyn Payne,875 CHU,2020-05-18,Retired
+DR0089,Robert Chavez,2616,2024-08-23,Active
+DR0090,Jeremy Knight,718-FCB,2017-04-08,Suspended
+DR0091,Paul Robertson,ZQR 562,2023-12-04,Active
+DR0092,Evelyn Bradley,93L Q12,2025-03-01,Active
+DR0093,Kimberly Mcfarland,397 ZKX,2017-04-14,Retired
+DR0094,Susan Solis,W97-19Z,2019-05-29,Active
+DR0095,Whitney Harris,IIE 988,2019-12-25,Retired
+DR0096,Tracy Weber,404 JHG,2019-12-06,Active
+DR0097,Glenn Lowery,VM 2447,2020-10-08,Active
+DR0098,Ashley Davis,MMO-3341,2019-07-30,Suspended
+DR0099,Diane Hooper,KVP-1012,2024-11-18,Suspended
+DR0100,Dennis Harrison,64J•784,2019-07-17,Retired
+DR0101,Michael Barber,RS-0290,2016-01-23,Active
+DR0102,Joseph Griffin,ETP K13,2018-02-28,Active
+DR0103,Brianna Fisher,FTX 287,2018-09-14,Suspended
+DR0104,Heather Winters,110-DFDA,2016-08-18,Retired
+DR0105,Wendy Nelson,100YHS,2019-09-13,Active
+DR0106,Michael Stephenson,655-RLE,2018-04-22,Active
+DR0107,James Long,408 XV6,2017-06-18,Retired
+DR0108,Victor Schaefer,6KJE 50,2017-04-09,Active
+DR0109,Christopher Wilson,OMS 3822,2020-06-03,Retired
+DR0110,Larry Villa,804-394,2018-03-14,Retired
+DR0111,Timothy Ramirez,8IH D79,2024-01-18,Active
+DR0112,Matthew Hughes,QIX 164,2023-04-09,Active
+DR0113,Ian Stephens,577661,2019-09-25,Suspended
+DR0114,Ronnie Vazquez,95-6533K,2020-10-15,Active
+DR0115,Michaela Wood,417 QRJ,2023-12-16,Suspended
+DR0116,Ryan Green,953-399,2022-03-24,Suspended
+DR0117,Joseph Baker,11R E50,2023-12-03,Retired
+DR0118,Victoria Warren,I91-RRY,2021-05-11,Suspended
+DR0119,Jamie Church,84TF1,2022-09-04,Active
+DR0120,Denise Carroll,Y 570910,2019-09-03,Retired
+DR0121,Ryan Young,674-XJF,2023-05-13,Retired
+DR0122,Jay Baker,LRB 917,2017-10-16,Retired
+DR0123,John Sims,P38 9RH,2021-09-12,Active
+DR0124,Sierra Delgado,8-7698N,2025-04-16,Suspended
+DR0125,Cassandra Taylor,371B1,2024-07-12,Suspended
+DR0126,Chad Ward,54U W89,2018-02-11,Suspended
+DR0127,Jaime Brown,LND-473,2019-06-09,Active
+DR0128,Andrew Donovan,UQN-989,2021-06-13,Retired
+DR0129,William Clark,011 LYU,2024-11-06,Suspended
+DR0130,Brian Rose,003S,2023-08-07,Retired
+DR0131,Sharon Carney,8-75187U,2022-12-13,Suspended
+DR0132,Todd Hatfield,T77-HJP,2016-06-29,Retired
+DR0133,Rachel Ford,981 2479,2020-05-20,Suspended
+DR0134,Joshua Hoover,4J 7V4VGY,2023-12-31,Suspended
+DR0135,Kathy Cook,0HB 705,2019-11-20,Retired
+DR0136,Pam Graham,1XS V91,2019-07-10,Active
+DR0137,Mallory Tran,9ZK I15,2024-10-19,Retired
+DR0138,Gregory Duncan,55-B840,2021-03-28,Retired
+DR0139,Douglas Marks,765 8835,2021-05-25,Suspended
+DR0140,Jonathan Pitts,IBP-426,2020-05-28,Retired
+DR0141,Justin Cortez,74-8964L,2020-01-13,Active
+DR0142,Benjamin Nichols,46N 2429,2022-10-09,Active
+DR0143,Matthew Wilson,405-XNS,2017-05-07,Suspended
+DR0144,Mr. Andrew Hart,8O 8G7SMG,2019-02-05,Suspended
+DR0145,Courtney Swanson,64-66869,2021-12-30,Suspended
+DR0146,Justin Peterson,EJC0612,2022-01-18,Suspended
+DR0147,Jason Reyes,377-649,2015-08-13,Active
+DR0148,Lucas James,0A 4Z1HBG,2025-04-19,Active
+DR0149,Tina Gross,CIQ 183,2023-10-05,Suspended
+DR0150,Ashley Johnson,HFO-222,2024-09-13,Suspended
+DR0151,Cynthia Conley,LD 32101,2023-09-28,Suspended
+DR0152,Sarah Harris,6VW P27,2018-06-09,Suspended
+DR0153,Cindy Jackson,67-H283,2023-08-09,Suspended
+DR0154,Dustin Porter,I91 2WH,2015-11-05,Suspended
+DR0155,Tracy Williams,2IE0968,2015-09-16,Retired
+DR0156,Gloria Chambers,796-IHO,2020-06-24,Retired
+DR0157,Alicia Jackson,2WRX448,2024-10-04,Active
+DR0158,Anthony Obrien,NQP 509,2024-06-11,Retired
+DR0159,Edward Yu,5-23859,2016-05-09,Active
+DR0160,Andrew Nguyen,9SF 831,2017-08-09,Active
+DR0161,Julie Diaz,3049 LV,2022-08-26,Retired
+DR0162,Sandra Atkinson,AJK 677,2020-04-24,Suspended
+DR0163,David Reese,921 FKM,2024-01-31,Retired
+DR0164,Anthony Obrien,186-NME,2017-02-01,Suspended
+DR0165,Michael Johnson,539 SGF,2018-08-21,Active
+DR0166,Jessica Kennedy,540 1017,2025-02-23,Suspended
+DR0167,Jose Mullins,089-PMT,2016-06-29,Suspended
+DR0168,Ashley Kidd,1OP 281,2022-09-27,Active
+DR0169,Thomas Williams,3RE 307,2023-10-20,Retired
+DR0170,Jill Ramos,4587,2016-11-15,Active
+DR0171,Sharon Hernandez,5Y 1382A,2015-11-22,Retired
+DR0172,Jason Dillon,6Y J4579,2022-07-12,Retired
+DR0173,Thomas King,RFP7998,2016-04-08,Suspended
+DR0174,Mark Taylor,655-KMX,2017-09-01,Suspended
+DR0175,Traci Haynes,820 8GJ,2021-01-01,Suspended
+DR0176,Joanne Barnett,407 8QD,2019-11-24,Suspended
+DR0177,Richard Garner,9B 1411W,2019-09-01,Retired
+DR0178,Jo Black,975-SOF,2023-03-25,Active
+DR0179,Andrew Long,6ERA 07,2016-10-04,Active
+DR0180,Brittany Matthews,43-ZM49,2020-08-04,Active
+DR0181,Robert Hughes,LUX 885,2017-02-12,Suspended
+DR0182,Angela Long,378 7OT,2020-05-23,Suspended
+DR0183,Jonathan Roth,491 CQE,2021-09-11,Active
+DR0184,Sean Hahn PhD,SE 86283,2020-08-17,Retired
+DR0185,Gregory Thomas,ZXX-452,2015-07-24,Retired
+DR0186,Emily Crosby,9G B3453,2019-08-01,Active
+DR0187,Michael Rodriguez,SZ 9992,2023-03-28,Active
+DR0188,Jim Hull,KQH 655,2021-01-13,Active
+DR0189,Anna Hill,TNU 473,2019-01-26,Suspended
+DR0190,Brittany Hernandez,MSM3065,2019-03-07,Active
+DR0191,David Harvey,QV8 5569,2020-01-18,Active
+DR0192,Tracy Dodson,214 RWR,2018-09-10,Active
+DR0193,Robert Olson,368-TFL,2025-03-11,Retired
+DR0194,Emily White,HCO 245,2021-10-05,Retired
+DR0195,Kevin Frank,Q 987835,2025-05-25,Suspended
+DR0196,Renee Collins,EFX-020,2022-10-20,Retired
+DR0197,Daniel Johnston MD,QRZ-2879,2021-02-20,Active
+DR0198,Tammy Garcia,9JJZ727,2020-07-29,Suspended
+DR0199,Kayla Taylor,RN8 0317,2024-01-31,Active
+DR0200,Jacqueline Drake,812 VZU,2024-10-04,Retired
+DR0201,Rebecca Allen,993TMS,2023-11-23,Suspended
+DR0202,Veronica Wilson,730 WFN,2020-03-20,Active
+DR0203,Jennifer Ashley,KOL 281,2022-03-12,Retired
+DR0204,Cindy Hayes,351N,2018-04-09,Retired
+DR0205,Jermaine Ellis,4O 1J6TXW,2019-08-31,Retired
+DR0206,Maria Rice,0F 85613,2023-07-06,Active
+DR0207,Jonathan Mclaughlin MD,38R 1242,2016-05-12,Suspended
+DR0208,Jamie Kaufman,DVG-392,2023-10-30,Suspended
+DR0209,Brooke Schneider,686YZC,2024-03-27,Retired
+DR0210,Sarah Brooks,QYK3929,2022-09-04,Active
+DR0211,Paul Hamilton MD,BQZ-156,2018-04-20,Suspended
+DR0212,Jodi Carroll,FER8162,2016-10-05,Active
+DR0213,Stephanie Bass,KIN 582,2020-08-30,Retired
+DR0214,Robert Figueroa,ZKG 699,2020-02-04,Active
+DR0215,David Delgado,839 VIP,2023-05-15,Retired
+DR0216,Kyle Dean,NDO-474,2024-03-09,Active
+DR0217,Johnny Hayes,33Z 662,2017-10-17,Active
+DR0218,Roy Shah,BLA-1726,2017-05-27,Retired
+DR0219,Michael Gonzalez MD,2ID8837,2024-02-17,Active
+DR0220,Richard Gutierrez,7198 VB,2023-10-29,Active
+DR0221,Katelyn Merritt,0K-ZYOZ,2021-03-14,Suspended
+DR0222,Robert Ross,305-DDKV,2017-07-27,Active
+DR0223,Amy Gardner,6G 65290,2023-10-05,Active
+DR0224,Daniel Lopez,QFH-8070,2017-05-26,Active
+DR0225,Samantha Moore,ZSU 014,2018-08-07,Suspended
+DR0226,Courtney Norman,OQ1 2243,2016-03-13,Active
+DR0227,Mark Hamilton MD,PO 39149,2025-03-26,Active
+DR0228,Anthony Fernandez,O21-PZP,2018-03-07,Suspended
+DR0229,Jillian Evans,455-VOO,2020-02-05,Active
+DR0230,David Davis,4127,2019-07-04,Suspended
+DR0231,Amy Tucker,KRR 7311,2016-08-08,Active
+DR0232,Ashley Barber,ABT-345,2019-11-24,Active
+DR0233,Sara Cruz,859KSM,2016-01-30,Active
+DR0234,Daniel Bartlett,8-7287L,2020-10-06,Suspended
+DR0235,Brittany Wagner,44-1205K,2020-01-05,Suspended
+DR0236,Jacob Cantu,PBG-6348,2021-10-23,Active
+DR0237,Peter Cox,728-IHZ,2019-10-23,Active
+DR0238,Sherry Anderson,7X-KODT,2022-10-16,Retired
+DR0239,Joshua Sims,KDJ 100,2020-03-18,Suspended
+DR0240,Debra Campbell,0UBA243,2018-10-20,Suspended
+DR0241,Brenda Hernandez MD,030 BFG,2019-09-27,Suspended
+DR0242,Michael Torres,8P Q3962,2017-08-08,Active
+DR0243,Vincent Brooks,IOL 036,2023-06-10,Active
+DR0244,Todd Jenkins,470 QA0,2018-09-05,Retired
+DR0245,Grant Garcia,JPL7770,2020-08-22,Suspended
+DR0246,Justin White,0FR L95,2020-10-06,Retired
+DR0247,Amy Smith,91-LJ32,2024-03-03,Retired
+DR0248,Lisa Gardner,927-XBB,2018-11-15,Active
+DR0249,David Proctor,HLA 013,2017-07-27,Suspended
+DR0250,Jeff Gomez,96YF1,2018-11-24,Retired
+DR0251,Robert Lamb,015HJT,2015-11-02,Retired
+DR0252,John Bates,9737 CU,2023-03-08,Active
+DR0253,Amanda Frye,6N 0T8PYX,2020-01-04,Suspended
+DR0254,Sheryl Randall,49Y EH2,2018-12-13,Active
+DR0255,Glenn Cooper,LUQ 006,2022-07-20,Suspended
+DR0256,Mia Wolf,3NU 379,2018-05-22,Retired
+DR0257,Henry Mendez,127 PDT,2021-08-25,Suspended
+DR0258,Kristin Munoz,IZF 2882,2018-09-04,Active
+DR0259,John Myers,HUT 247,2023-07-01,Suspended
+DR0260,Christina Guzman,739 IUJ,2019-10-20,Retired
+DR0261,Scott Silva,136 OKT,2018-01-06,Retired
+DR0262,Kathryn Mcguire,Q32 8JA,2023-07-13,Suspended
+DR0263,Natalie Livingston,253-DWE,2022-04-01,Active
+DR0264,Anita Warner,306 5120,2017-12-20,Active
+DR0265,Stephanie Murphy,44NC464,2020-06-17,Suspended
+DR0266,Patrick Wilkins,690 5ZP,2021-08-16,Suspended
+DR0267,Tammy Montgomery,E84 5LU,2016-02-06,Suspended
+DR0268,Michael Hill,T35 8LY,2024-05-03,Active
+DR0269,Michael Smith,9Q 4464M,2017-02-15,Active
+DR0270,Tyler Morse,2-7678C,2024-12-16,Active
+DR0271,William West,122 7YP,2021-07-03,Retired
+DR0272,Olivia Mason,289 WFH,2017-06-25,Suspended
+DR0273,Nicole Mitchell,79RG1,2020-03-02,Retired
+DR0274,Shannon Walker,1NI0837,2015-07-04,Retired
+DR0275,Heidi Nguyen,777DAV,2019-03-23,Suspended
+DR0276,Tony Hill,W99-CPL,2016-12-08,Retired
+DR0277,Erin Gaines,7CA Y56,2017-01-13,Active
+DR0278,Susan Rodriguez,683 LEL,2018-12-13,Retired
+DR0279,Thomas Lane,KDM 926,2019-06-20,Active
+DR0280,Jon Villarreal,WLY 752,2018-01-12,Suspended
+DR0281,Robert Shaw,GYY 020,2024-11-18,Retired
+DR0282,Edwin Walker,608 6911,2018-06-18,Suspended
+DR0283,Steven Little,0L HE801,2021-02-14,Active
+DR0284,Kristina Alvarado,MAJ 726,2024-06-17,Suspended
+DR0285,Jacob Meyer,0ML 781,2023-12-23,Retired
+DR0286,John Williams,782408,2022-04-25,Active
+DR0287,Gregory Stanton Jr.,C55 2MX,2020-05-14,Active
+DR0288,Jacob Davis,339-CEN,2024-07-26,Active
+DR0289,Michael Ayala,249-KEUC,2024-06-26,Suspended
+DR0290,Keith Johnson,8DW 252,2015-08-21,Active
+DR0291,John Young,1UG S29,2019-08-31,Retired
+DR0292,James Martinez,10-C869,2017-11-18,Retired
+DR0293,Walter Salinas,45M S84,2019-11-15,Retired
+DR0294,Chad Andersen,425 SPS,2023-09-04,Retired
+DR0295,Amanda Shelton,2-J2471,2016-04-23,Suspended
+DR0296,Rebecca Lopez,1-I4736,2020-01-07,Suspended
+DR0297,Christina Johnson,QT 30735,2017-12-14,Suspended
+DR0298,Marie Nichols,RQL-6943,2016-05-13,Retired
+DR0299,Corey Clarke,9-14416G,2016-10-01,Retired
+DR0300,Lawrence Hoover,15O V38,2016-02-22,Suspended

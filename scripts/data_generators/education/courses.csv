@@ -1,0 +1,101 @@
+courseID,courseName,department,teacherID
+C001,Debate 301,PE,T0113
+C002,Find 101,English,T0102
+C003,Paper Lab,Science,T0174
+C004,Myself 301,History,T0092
+C005,Statement Lab,Science,T0038
+C006,Choice Lab,PE,T0115
+C007,List Seminar,English,T0051
+C008,Window 301,English,T0037
+C009,Have Seminar,Science,T0164
+C010,First 301,Science,T0153
+C011,Offer 101,Computer Science,T0084
+C012,Speech 301,History,T0027
+C013,Conference 101,Science,T0069
+C014,Much 201,Art,T0081
+C015,Important 301,Math,T0013
+C016,Hold Lab,Math,T0088
+C017,Land 201,Computer Science,T0047
+C018,Ready Lab,English,T0125
+C019,Others 301,PE,T0057
+C020,Forget 101,Art,T0194
+C021,Fear 301,Math,T0063
+C022,Blood 301,Math,T0050
+C023,Administration 201,Computer Science,T0077
+C024,Watch Seminar,Science,T0083
+C025,Write 101,English,T0147
+C026,Identify 301,Art,T0117
+C027,Focus Lab,Art,T0097
+C028,Real Seminar,Art,T0114
+C029,Show Lab,Science,T0020
+C030,Country 201,Math,T0095
+C031,Answer Lab,History,T0122
+C032,What 301,Science,T0019
+C033,Enough 301,English,T0048
+C034,Sister 101,Math,T0136
+C035,Continue Lab,Science,T0169
+C036,Address Seminar,History,T0160
+C037,Put Lab,History,T0066
+C038,Outside Lab,Science,T0189
+C039,Source Lab,Art,T0107
+C040,Respond Seminar,PE,T0163
+C041,Thank Seminar,Computer Science,T0056
+C042,Method 101,Computer Science,T0028
+C043,Station Lab,Art,T0098
+C044,Admit 301,Computer Science,T0034
+C045,Word 201,PE,T0025
+C046,Begin Seminar,Science,T0051
+C047,National 201,PE,T0113
+C048,Nation 201,Art,T0042
+C049,Process Lab,English,T0007
+C050,Hope Seminar,Math,T0032
+C051,Possible 101,Art,T0052
+C052,Manager 301,Science,T0067
+C053,Near 101,English,T0063
+C054,Establish 101,Art,T0083
+C055,Name Lab,Science,T0067
+C056,Stock 201,Computer Science,T0004
+C057,Effort 201,Art,T0074
+C058,Memory 301,Computer Science,T0137
+C059,Include Lab,Art,T0028
+C060,Course 101,Science,T0157
+C061,Charge 201,PE,T0138
+C062,Decide Seminar,PE,T0055
+C063,Color 201,PE,T0090
+C064,Training 201,Math,T0025
+C065,Show 201,English,T0068
+C066,Perhaps 301,History,T0037
+C067,Wrong 101,English,T0143
+C068,Miss 101,English,T0082
+C069,Medical Seminar,Math,T0185
+C070,Civil 201,English,T0140
+C071,Reveal 101,Math,T0076
+C072,Usually 201,English,T0053
+C073,Discover Lab,Science,T0064
+C074,Hour 101,PE,T0064
+C075,Admit 301,Math,T0084
+C076,Organization Seminar,Science,T0137
+C077,History 101,Math,T0101
+C078,Future 201,PE,T0110
+C079,Tree 201,Art,T0123
+C080,Inside Lab,Science,T0089
+C081,Push 301,Math,T0174
+C082,Social 301,Science,T0121
+C083,Represent Lab,Art,T0137
+C084,Low 101,Computer Science,T0003
+C085,Show 301,Math,T0032
+C086,Ability Lab,Computer Science,T0147
+C087,Close Seminar,PE,T0185
+C088,Happen 101,Math,T0009
+C089,Evening 101,History,T0094
+C090,Miss Seminar,Computer Science,T0060
+C091,These 101,Art,T0026
+C092,Interview 101,English,T0193
+C093,Lawyer 301,Math,T0132
+C094,Stay 201,History,T0068
+C095,Politics 201,Computer Science,T0057
+C096,Hand 201,Art,T0040
+C097,Article 201,Art,T0048
+C098,Take Lab,Science,T0167
+C099,Everything Seminar,Science,T0195
+C100,Beat Lab,History,T0120

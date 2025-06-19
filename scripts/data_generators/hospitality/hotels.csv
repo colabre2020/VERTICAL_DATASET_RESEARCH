@@ -1,0 +1,101 @@
+hotelID,name,city,address,stars
+H001,Wallace PLC,Gonzalesport,"2081 George Glens Apt. 436, New Larryhaven, NC 53566",4
+H002,Gates-Frederick,North Daniel,"91709 Turner Ways Apt. 196, Port Isaacstad, MI 48718",4
+H003,"Carpenter, Williams and Harrell",North Adam,"497 Jim Gateway Apt. 476, Jamesborough, PW 22946",5
+H004,"Thompson, Villanueva and Morris",East Adammouth,"359 Erickson Walk Suite 081, Collinsview, OR 50121",5
+H005,Parsons-Ford,East Dana,"453 Gonzalez Isle, Parsonsfurt, GU 81758",4
+H006,Brown Ltd,Wolfeside,"31859 Flores Villages, Thomasfort, AS 97996",4
+H007,Vazquez-Peters,West Belindachester,"35486 Melissa Center, East Ericshire, MS 71026",1
+H008,"Collins, Farmer and Smith",North Drew,"9052 Carolyn Islands Apt. 876, Blackwellshire, MP 09852",1
+H009,Newman and Sons,Lake Brittneyview,"4962 Farrell Bypass Suite 254, Harveyside, ND 35181",3
+H010,"Harrington, Anderson and Robles",New Thomastown,"661 Ward Pines, South Hollyside, SC 87544",1
+H011,"Williams, Meyer and Sanders",North Lisa,"1778 Christopher Avenue, Robertshire, WA 68384",2
+H012,Morrow-Stewart,North Bryanland,"401 Kayla Turnpike Apt. 097, West Barbara, FL 04132",5
+H013,Kelley Inc,Dominguezhaven,"73531 Dawn Flat, Hughesberg, DC 44976",2
+H014,"Mccarthy, Acosta and Clark",Michaelhaven,"67774 Berry Highway Apt. 437, Christinaburgh, NJ 48871",4
+H015,Blankenship-Lewis,Davisbury,"4015 Thomas Stream Suite 321, South Jennifer, MN 40753",1
+H016,King-White,Lake Thomasstad,"4803 Michele Vista Apt. 406, Samanthaland, TN 59926",4
+H017,Walker-Murphy,Kennethfurt,"711 Joe Greens Apt. 561, New Roger, MD 42440",5
+H018,Taylor Inc,Pattonborough,"341 Kristen Track, North Kelly, CT 52632",2
+H019,Johnson-Reese,Watersstad,"488 White Roads, East Michele, NC 12725",2
+H020,"Morris, Dunn and Martinez",Lake Charles,"983 Tonya Wall Apt. 224, Colemanside, VI 65282",4
+H021,Martinez-Richard,South Alexanderburgh,"1982 Sandra Mews Suite 919, East Steve, ME 01666",5
+H022,Jenkins-Snow,Port Stevenfurt,"9002 Nicholas Ridge Suite 279, Schmidtmouth, DC 49290",5
+H023,"Haley, Tran and Jones",North John,"215 Parker Ports, Melissafurt, OK 82472",2
+H024,Fisher-Evans,Lake Jamesport,"83421 Jennifer Ridges, South Mary, OK 21311",3
+H025,Bowers Ltd,East Katrinachester,"51317 Stanton Route, Leblanctown, TN 21170",1
+H026,Solomon-Wright,Port Juliehaven,"898 Erica Mountain, Caitlinton, ME 03623",4
+H027,Garrison-James,New Allison,"4840 Browning Motorway Apt. 470, East Patricia, VA 48154",1
+H028,"Hernandez, Lucas and Allen",Bakerville,"Unit 9289 Box 9984, DPO AP 22371",3
+H029,"James, Richards and Elliott",Lindsaytown,"399 Boyer Mountain Apt. 699, Jenniferberg, MH 85370",3
+H030,Wheeler Ltd,New Sydney,"534 Davis Walks, Gordonchester, UT 07123",5
+H031,Mcpherson Ltd,Jessicaberg,"698 Brown Plaza Apt. 565, Lake Benjaminton, OH 03342",5
+H032,Patrick and Sons,New Courtney,"937 Cathy Rapid Apt. 542, Mcphersonfurt, FM 60991",1
+H033,Hughes PLC,Jeffreyborough,"47004 Flores Burg, Vargasland, NH 43484",3
+H034,James-Pearson,Kellyview,"019 Aaron Island Apt. 475, Cindyville, PW 86361",2
+H035,Griffith Inc,Gutierrezborough,"0575 Nicholson Row Apt. 115, West Sarahfurt, MA 10698",2
+H036,Acevedo-Morales,North George,"59342 Claudia Mall, South Wendyburgh, VA 16456",4
+H037,Archer-Williams,South Kimberly,"02409 Barton Cape Suite 892, Larryland, MA 55035",4
+H038,"Huber, White and Ortiz",New Danatown,"0989 Hester Stream, Connieton, NJ 54130",4
+H039,Cantu LLC,West Kimberlyborough,"03550 Thomas Street, Bondfurt, MA 21936",2
+H040,"Grimes, Adams and Allison",Alexandraborough,"PSC 0880, Box 9286, APO AA 61857",2
+H041,"Fields, Harmon and Thompson",Patrickview,"97667 Bell Brooks, North Christopherland, ID 47995",4
+H042,"Howard, Shaw and Valencia",Kimberlyfurt,"864 Donald Pines Apt. 301, Robertmouth, IN 98957",4
+H043,"Beard, Bell and Willis",Mooreton,"7765 Vazquez Drives, South Erinton, OH 34017",2
+H044,"James, Gonzales and Harris",Blackville,"8040 Michael Wall Apt. 155, East Kristin, NY 11212",5
+H045,Huffman-Combs,Garrettshire,"USCGC Woods, FPO AP 51311",2
+H046,Brady-Simmons,Bennettstad,"184 Rodgers Courts, Lake Christopher, HI 04874",5
+H047,"Hill, Schroeder and Hansen",Patriciaville,"97479 Amanda Fords Apt. 050, South Allenbury, NC 44922",4
+H048,Kim-Taylor,North Christopher,"0778 Brooke Junction Apt. 650, Lake Steven, TX 29263",3
+H049,"Sanchez, Kramer and Marks",Coreymouth,"1265 Justin Locks, Andrewside, WI 10779",4
+H050,"Wright, Perez and Hoffman",Munozland,"9553 Garcia Route, West Seanborough, SC 71354",3
+H051,Snyder Group,Ashleymouth,"02241 David Circles, West Todd, OH 12274",3
+H052,"Chavez, Washington and Johnson",Jennifertown,"Unit 7277 Box 3942, DPO AA 60568",4
+H053,Robinson-Parker,North Barbara,"813 Judy Forge Apt. 401, Thompsontown, AZ 38166",3
+H054,"Baker, Smith and Gomez",Kristenborough,"4414 Davies Burg, Catherinemouth, TX 42856",3
+H055,"Dunn, Martin and Castro",Brooksborough,"Unit 3474 Box 1340, DPO AP 27500",1
+H056,"Rodriguez, Palmer and Singleton",Rebeccaburgh,"695 William Plain, Lake Sharon, FM 07011",2
+H057,Sparks-Smith,East Elizabeth,"3879 Jennifer Estate, Kellybury, NM 00909",3
+H058,"Gates, Hill and Conner",West Chaseville,"02667 Jennifer Loaf, New Jacob, CO 13105",2
+H059,Washington Inc,North Nancyfurt,"53601 Daniel Forks, North Robertfurt, PR 44840",2
+H060,"Reynolds, Hayes and Carpenter",East Ashley,"1606 George Hollow, Woodview, MT 24323",4
+H061,Fernandez Group,East Amyton,"7259 Johnson Pine, Molinaview, NY 65981",5
+H062,Gonzales Inc,Port Maryburgh,"6844 Caitlin Wall, Port Nichole, SD 30916",2
+H063,Holmes-Reed,New Michelle,"660 Brown Lakes Suite 737, Josephberg, NC 60928",3
+H064,Petersen-Ellis,Smithhaven,"Unit 8233 Box 6047, DPO AA 30081",3
+H065,"Blake, Bradley and Thompson",Lake Julieburgh,"7846 Stephanie Drive, Paulside, IN 11876",1
+H066,Thompson Inc,Port Aaronmouth,"16429 Kim Valley Apt. 687, North Kellymouth, AK 24406",1
+H067,Ward Ltd,Lake Rodney,"0848 Christopher Locks Apt. 050, North Billstad, ME 48694",5
+H068,Perez-Lopez,Harrismouth,"3364 Smith Ramp, Longport, NH 63852",3
+H069,Elliott and Sons,Phamville,"411 Roman Canyon, Port Jennifer, AS 42836",3
+H070,Cruz-Hart,Stevetown,"14201 Leon Shoal Suite 396, Lisaland, MP 13984",2
+H071,Baker LLC,Lake David,"506 Richardson Passage, Tammyside, FL 01082",1
+H072,Vargas-Smith,South Gary,"03144 Ware Road, South Christine, NY 20402",1
+H073,Tran-Williams,West Andrea,"02985 Barr Circle, Erikfurt, WY 49724",5
+H074,Lyons and Sons,East Rebecca,"95712 Ryan Extensions Apt. 204, Mitchellmouth, NV 82833",4
+H075,"Mcdonald, Sharp and Jacobson",Brianview,"8974 Barber Lakes Apt. 345, South Margaret, WV 18602",2
+H076,"Benson, Martin and Reynolds",Justinchester,"465 Williams Trace Suite 936, Johnsonchester, NM 74771",2
+H077,Jones Inc,South Aaron,"030 Justin Cove Apt. 074, Millermouth, NV 87340",2
+H078,"Bell, Williams and Moore",Michaelborough,"325 Jones Courts, Lake Sheriburgh, NY 57604",2
+H079,Young-Jenkins,South Marcusburgh,"40692 Moore Place, Brooksmouth, AZ 61270",2
+H080,"Hall, Braun and Wiggins",Griffinville,"9962 Carter Lakes Suite 989, Williamsberg, GU 36952",2
+H081,Johnston Inc,Dixonville,"77240 Lauren Point Suite 842, Port Morganland, TX 72959",2
+H082,"Mccann, Gross and Wilson",Brandonshire,"8170 Turner Junction, West Donna, MH 14088",5
+H083,Jordan and Sons,Reillyview,"USNV Campbell, FPO AP 67986",2
+H084,Green Inc,Hopkinsview,"3488 Martin Forest, Juanburgh, TN 79685",2
+H085,Moran-Mitchell,West Sheila,"537 Nelson Wells, New Natalie, PR 29802",4
+H086,Snyder-Hebert,Dawnbury,"56142 Hopkins Walk, Lake Cody, VT 37755",2
+H087,Mccarthy-Reynolds,Annahaven,"1352 Fernandez Rapids, Marymouth, HI 80403",5
+H088,Collins-Carter,New David,"173 Hannah Trail, Lake Angela, ND 14130",2
+H089,Flores-Schwartz,Lake Ericamouth,"PSC 1372, Box 6235, APO AP 74389",5
+H090,"Davis, Johnson and Mcdonald",West Charles,"451 Carolyn Burgs Apt. 582, Apriltown, KS 86702",4
+H091,Burns Ltd,Harristown,"0381 Felicia Park Apt. 736, North Eriktown, CO 29110",1
+H092,Underwood PLC,Moodyshire,"98684 Katherine Summit, Jacksonhaven, OH 03715",5
+H093,Thompson-Kirby,New Joel,"09078 Joseph Unions, South Amandahaven, MD 73695",2
+H094,Murphy-Baker,Lake Debraside,"05332 Pacheco Road Suite 602, Tinaton, PA 46177",5
+H095,Miller Group,East Michellemouth,"8238 Reyes Wells, Millershire, AR 08032",1
+H096,Johnston-Wilson,Matthewtown,"964 Daugherty Viaduct Suite 408, Judithfort, DC 80358",5
+H097,Lowery-Guzman,West Marissaville,"468 Lawrence Landing, East Johnstad, CA 36624",5
+H098,Wallace LLC,Wallacehaven,"584 Toni Groves Suite 280, New Christopher, IN 50504",1
+H099,Jimenez and Sons,Lopezhaven,"USCGC Avila, FPO AA 30871",3
+H100,Reed PLC,Camposborough,"74851 Kevin Circles Apt. 441, Port Kristinabury, UT 96363",3

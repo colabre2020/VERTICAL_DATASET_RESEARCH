@@ -1,0 +1,201 @@
+routeID,origin,destination,distance_km
+R001,Lake Catherine,Rachelside,470
+R002,Zimmermanstad,Miaville,599
+R003,Codymouth,Williamsshire,846
+R004,Frenchbury,South Tammytown,595
+R005,East Sarahhaven,Seanville,1360
+R006,Port Joeland,Carlachester,948
+R007,Lake Natasha,Brandontown,1492
+R008,Lambside,West Stephanie,563
+R009,Carolshire,Kellyland,1659
+R010,New Keith,Port Peterchester,1619
+R011,Brandtburgh,North Courtney,1913
+R012,North Brianfort,Powellshire,1810
+R013,Trujilloshire,Kellyport,1607
+R014,North Maryberg,New Jessicastad,110
+R015,Robbinshaven,Meganville,1128
+R016,Mandyton,New Brittany,858
+R017,Leeland,Lake Andrew,1766
+R018,West Jillianbury,South Cindyport,247
+R019,East Brad,Jeremybury,1071
+R020,North Michael,South Christopher,1321
+R021,Patrickchester,New Derekfort,1029
+R022,West Nicholasland,Lake John,803
+R023,West Chadstad,Juarezburgh,1702
+R024,South Jason,Keithburgh,545
+R025,Anthonyshire,New Meganberg,27
+R026,Elliottview,Jonesland,1617
+R027,Edwardmouth,Annaburgh,762
+R028,Debrahaven,Port Danielview,327
+R029,Lake Brooke,Lake Karenton,637
+R030,South Michael,North Tammyfurt,1352
+R031,Port Kimberlyfurt,Christinebury,1767
+R032,East Samuelberg,Jenniferport,1038
+R033,Crystalstad,Melissastad,179
+R034,Alexisberg,Piercefurt,654
+R035,West Brittany,Joshuaview,760
+R036,Lake Crystal,Gillbury,666
+R037,North Jenniferbury,West Jamiestad,604
+R038,Gentryborough,South Amy,755
+R039,North Anthony,Lake Dawn,647
+R040,South Frank,Escobarfort,1740
+R041,South Darryl,East Jessicamouth,592
+R042,Lake Darlene,Lake Amandaside,260
+R043,Gabriellemouth,Lake Susan,117
+R044,New Jessicatown,Jasonchester,1245
+R045,Baileyville,West Spencerborough,1463
+R046,West Elizabeth,Rodriguezside,1874
+R047,North Gregburgh,Zimmermanberg,1926
+R048,North James,Port Tanyaberg,960
+R049,East William,Melissatown,382
+R050,West Michele,Bradleystad,1099
+R051,Robertmouth,Benjaminville,1428
+R052,Tiffanyport,Haileyhaven,734
+R053,New Nicole,Hollandbury,732
+R054,Garciabury,Lisamouth,1616
+R055,East Wendy,Thompsonshire,177
+R056,Port Andrew,Kathleenfort,857
+R057,Virginiaburgh,East Scottborough,161
+R058,New Carolynview,South Karenbury,432
+R059,Perryville,West Gregory,1325
+R060,South Allison,East Dennis,1888
+R061,North Nicholas,Harrisonberg,1328
+R062,Janehaven,Lake Joshua,647
+R063,Karenmouth,Lake David,45
+R064,New April,Arnoldfort,1432
+R065,South Angelaville,New David,1074
+R066,South Samanthabury,Lake Belinda,882
+R067,Perrymouth,Lake Joshuashire,1932
+R068,New Kimberly,Ronaldstad,1952
+R069,Braunfurt,Kimberlyland,1717
+R070,Port David,Cynthiaborough,76
+R071,Paulville,Kellyland,1285
+R072,Katrinaburgh,Garzaview,1943
+R073,Kathyshire,Floresmouth,1022
+R074,East Tonyatown,Lake Robert,1796
+R075,West Billy,Port Natalie,1273
+R076,North Wendyburgh,South Toddside,558
+R077,Adamsfurt,Simpsonburgh,1893
+R078,Lake Jonathanchester,New Tonya,1420
+R079,Davismouth,Mcgeeville,638
+R080,Stephenton,East Cynthia,445
+R081,New Roberthaven,Christinaburgh,870
+R082,Stephaniefort,Henryville,181
+R083,North Davidshire,South Rachelmouth,460
+R084,Lake Stacyhaven,Scottport,124
+R085,Ingramstad,West Ryan,1453
+R086,South Kendra,Matthewview,1154
+R087,New Kelly,Lopezchester,616
+R088,South Antonio,North Nicholas,1503
+R089,Bridgetville,Johnsonton,636
+R090,Bobbyview,Markside,1154
+R091,Jessicastad,East Trevorview,1027
+R092,Vickietown,Lake Williammouth,1276
+R093,Danielside,North Laurie,1155
+R094,Lake Robert,Bellhaven,437
+R095,Josefort,Thomasland,1551
+R096,Port Tiffany,Lake David,1004
+R097,Andrewmouth,Yorkhaven,216
+R098,East Kimberlyburgh,Jonathanchester,1342
+R099,North Nicholasshire,Dawnton,595
+R100,Hansonmouth,Kerrfort,1348
+R101,North Anthony,West Susanmouth,1892
+R102,West Edward,East Benjaminland,1442
+R103,South Jamesville,Thompsonton,694
+R104,South Joshua,North Mary,883
+R105,Robertborough,Garciaburgh,295
+R106,Rachelfurt,Lake Nicole,335
+R107,West Kimberly,Huffstad,128
+R108,Lake Elizabethview,Sarafurt,1950
+R109,North Tina,South Lindsayview,871
+R110,New Dustinfort,New Robertburgh,275
+R111,Howardberg,North Rebecca,1288
+R112,Osborntown,Davidtown,630
+R113,North Ashley,Reeveschester,276
+R114,New Kimberly,Ruizhaven,235
+R115,Greeneville,Kevinland,247
+R116,Martinhaven,New Amandaview,692
+R117,New Michelleside,North James,1133
+R118,Bryanbury,Jeffreyhaven,1544
+R119,Ericabury,West Thomasmouth,1830
+R120,New Anne,Cindyfurt,1965
+R121,Kennedyside,New Amyland,1798
+R122,Millerside,East Victoriaville,1079
+R123,Port Meganborough,Smithburgh,1943
+R124,Timothyfort,East Martha,169
+R125,Port Brandon,Mitchellview,345
+R126,Lake David,West Stephanie,1183
+R127,Nicholeside,South Christinashire,627
+R128,Samanthaport,Katherineland,767
+R129,East Mariastad,Nicholsfort,1631
+R130,East Julia,North Michaelshire,1487
+R131,South Kaylee,East Daniel,260
+R132,Melissahaven,North Jessica,14
+R133,Lake Carl,East Mary,226
+R134,Wellsstad,New Jeffreyview,2000
+R135,Kevinland,Kimborough,1929
+R136,Lopezfort,Carolynhaven,1491
+R137,New Jamesmouth,West Edwardfort,18
+R138,Howardbury,South Madison,209
+R139,Kevinland,West Henry,701
+R140,Tracyland,East Michaelton,1042
+R141,Martinton,Port Nicoleville,1523
+R142,East Edward,Richardsonville,721
+R143,Wandachester,Michaelton,555
+R144,New Lori,Katherineview,1652
+R145,Langshire,Murphybury,289
+R146,Lawrencetown,Vaughnburgh,770
+R147,Jonesbury,Rebeccastad,1066
+R148,Fuentesburgh,Michelleburgh,1557
+R149,Arthurbury,Kristinaport,1931
+R150,Lake Heatherburgh,East Gregory,1415
+R151,Darleneport,Michaelview,1331
+R152,North Carlastad,West Alejandra,1280
+R153,North Kiaraville,Floreschester,1047
+R154,Nguyenport,Port Justin,1988
+R155,West Kathrynstad,New Justin,224
+R156,East Robert,Huffmanmouth,428
+R157,Port Samantha,Port Jessicaport,731
+R158,Joneschester,North Debra,1808
+R159,Edwardsborough,East Diane,344
+R160,Charlesmouth,Lake Jill,835
+R161,West Diana,Zacharymouth,1242
+R162,Veronicaburgh,New Maryborough,36
+R163,Port Brian,Tristanbury,1391
+R164,Port Benjamin,Jonathantown,1675
+R165,South Nicholaston,East Dylanborough,579
+R166,Armstrongberg,Meyerfurt,560
+R167,Garciabury,Markview,1151
+R168,Scottburgh,North Brandy,566
+R169,Scotthaven,Timothytown,718
+R170,Andrewfurt,Davidfort,1363
+R171,Brightberg,New Alexisville,1901
+R172,Lake Amanda,Teresaton,903
+R173,Port Jimmyport,Jenniferton,839
+R174,West Alyssa,Bakerton,1566
+R175,Browntown,East Traciefurt,56
+R176,Wardburgh,North Elizabethport,325
+R177,West Wanda,North Jefferyhaven,1873
+R178,Bellview,Glennburgh,1055
+R179,West Carolview,Port Jeremymouth,1840
+R180,Lake Kyle,Johnsonside,1201
+R181,East Sean,Davidhaven,878
+R182,Richardberg,West Sarahside,1659
+R183,Youngborough,South Dianemouth,83
+R184,North Charles,Sullivanborough,1860
+R185,East Logan,Wardside,1340
+R186,Peterland,Margarethaven,289
+R187,South Stephanie,Millerfurt,461
+R188,North John,Paulshire,1668
+R189,Browntown,New Matthewhaven,1814
+R190,East Douglas,West Teresa,1348
+R191,South Jody,East David,640
+R192,Donaldfort,North Kristen,1171
+R193,Danielfort,East Kennethmouth,1801
+R194,Christopherville,Josephport,295
+R195,Leonardstad,Grahamshire,1172
+R196,West Alexa,Dianatown,210
+R197,Taylorfurt,East Mariabury,1578
+R198,New Garytown,West Nathanhaven,240
+R199,South Joseland,Wendyhaven,264
+R200,Jillburgh,New Danaland,1413

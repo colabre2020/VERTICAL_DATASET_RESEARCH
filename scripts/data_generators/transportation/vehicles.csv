@@ -1,0 +1,501 @@
+vehicleID,type,plateNumber,capacity,status
+V0001,Bus,374 QP5,10,Inactive
+V0002,Car,WUX7396,29,Maintenance
+V0003,Van,ACH-1306,35,Maintenance
+V0004,Bike,5O 6897L,23,Active
+V0005,Truck,MWV 212,12,Active
+V0006,Bus,CHH 112,25,Maintenance
+V0007,Bus,422KH,31,Maintenance
+V0008,Car,TLA 254,30,Maintenance
+V0009,Bus,80B-TTXM,13,Maintenance
+V0010,Truck,OYW 844,33,Maintenance
+V0011,Bus,4O PF661,30,Maintenance
+V0012,Car,1XA 801,19,Inactive
+V0013,Bike,008-FXT,11,Inactive
+V0014,Van,MDU-0420,9,Active
+V0015,Van,718 HJE,2,Inactive
+V0016,Truck,6-4779M,26,Maintenance
+V0017,Van,545 HHX,28,Inactive
+V0018,Bus,RHT 0114,19,Inactive
+V0019,Van,8614,22,Inactive
+V0020,Truck,07T-XRFS,35,Active
+V0021,Bus,7-S1346,28,Maintenance
+V0022,Bus,72A 9694,10,Active
+V0023,Bus,MGI 897,34,Maintenance
+V0024,Bus,X61 8JP,29,Maintenance
+V0025,Car,004SSF,29,Inactive
+V0026,Bus,77-RL16,21,Maintenance
+V0027,Car,TN8 G1H,15,Active
+V0028,Car,37Q 0409,37,Inactive
+V0029,Truck,405 LSY,36,Active
+V0030,Car,119-FQJ,18,Active
+V0031,Van,6T C0714,8,Inactive
+V0032,Truck,29N 994,33,Active
+V0033,Truck,254-AGBT,24,Inactive
+V0034,Truck,831 TZM,25,Inactive
+V0035,Truck,737 RIF,39,Active
+V0036,Bus,228-CHW,19,Maintenance
+V0037,Car,545692,22,Inactive
+V0038,Truck,YGQ 020,39,Inactive
+V0039,Van,98A 0061,10,Inactive
+V0040,Bus,9DM46,18,Active
+V0041,Bike,MCR 982,29,Maintenance
+V0042,Bike,8-Y1170,25,Maintenance
+V0043,Bus,4-X1957,6,Maintenance
+V0044,Truck,GZB-2067,36,Inactive
+V0045,Car,263-HFG,1,Inactive
+V0046,Bus,3P-IKIS,9,Maintenance
+V0047,Bike,647 DBQ,33,Active
+V0048,Truck,4-03219O,24,Maintenance
+V0049,Truck,6BJ 892,10,Inactive
+V0050,Bike,5PO47,32,Maintenance
+V0051,Van,4RK62,39,Active
+V0052,Truck,68-15907,18,Active
+V0053,Car,121-EFG,31,Active
+V0054,Van,ECS 246,10,Active
+V0055,Van,979DMT,17,Inactive
+V0056,Van,5R-LWGN,29,Maintenance
+V0057,Van,ZWB 921,2,Maintenance
+V0058,Truck,9AZ E61,28,Inactive
+V0059,Car,567NI,15,Maintenance
+V0060,Bike,17-51686,9,Maintenance
+V0061,Van,8-7507H,29,Maintenance
+V0062,Bike,624 BVZ,9,Maintenance
+V0063,Truck,3CYP115,34,Inactive
+V0064,Bike,9174,6,Inactive
+V0065,Truck,28AO1,35,Inactive
+V0066,Bus,095-301,17,Maintenance
+V0067,Truck,2219,6,Inactive
+V0068,Bus,4MZ K16,20,Inactive
+V0069,Bus,598GG,6,Maintenance
+V0070,Van,1HNU 68,29,Maintenance
+V0071,Car,OQ 7857,30,Maintenance
+V0072,Bus,6PN 301,9,Maintenance
+V0073,Truck,QDF-4784,22,Maintenance
+V0074,Bike,XLF 930,11,Inactive
+V0075,Truck,917359,2,Maintenance
+V0076,Car,189 4531,24,Maintenance
+V0077,Car,JSZ-4374,1,Active
+V0078,Bus,NOO 572,31,Active
+V0079,Bus,QDU-787,5,Maintenance
+V0080,Car,FI-6596,12,Active
+V0081,Bike,KQT-5841,8,Maintenance
+V0082,Car,JCB6813,17,Inactive
+V0083,Van,407 QGB,19,Inactive
+V0084,Bus,290 FMI,24,Active
+V0085,Van,69XS0,23,Inactive
+V0086,Bike,M12-65G,12,Maintenance
+V0087,Bike,697 KOS,10,Maintenance
+V0088,Car,6MI 689,25,Inactive
+V0089,Bus,YY0 C6G,14,Active
+V0090,Van,AVM 194,35,Maintenance
+V0091,Van,62N SI2,38,Active
+V0092,Bike,75Y•222,13,Maintenance
+V0093,Truck,1VPC 31,14,Active
+V0094,Car,67DA8,2,Inactive
+V0095,Truck,9Z XU288,36,Active
+V0096,Bus,FBM3512,27,Active
+V0097,Bus,371 EZG,39,Maintenance
+V0098,Bike,18U W61,20,Inactive
+V0099,Van,0KT 374,30,Inactive
+V0100,Car,194-ZEXE,11,Maintenance
+V0101,Van,002-UWC,19,Inactive
+V0102,Bus,YS-4352,1,Active
+V0103,Car,17O-URIT,7,Active
+V0104,Car,QKT-262,24,Maintenance
+V0105,Bike,562-ARO,31,Maintenance
+V0106,Bus,91U•201,38,Inactive
+V0107,Bus,9E649,25,Inactive
+V0108,Truck,52ND886,32,Inactive
+V0109,Truck,6ITG303,26,Maintenance
+V0110,Bus,881-YMD,14,Inactive
+V0111,Bike,9HC W83,35,Active
+V0112,Bus,79-52365,38,Active
+V0113,Car,289-JGC,28,Active
+V0114,Truck,XQM 2161,18,Maintenance
+V0115,Bike,2-Z5340,24,Inactive
+V0116,Van,3AN 124,18,Maintenance
+V0117,Bike,922-559,16,Active
+V0118,Bus,0D 7383P,36,Inactive
+V0119,Bike,190-MWCS,8,Maintenance
+V0120,Van,988-UHY,16,Maintenance
+V0121,Bike,1-02912Y,10,Active
+V0122,Van,786 8QO,25,Active
+V0123,Bike,TXY9864,2,Active
+V0124,Truck,LKH 269,36,Maintenance
+V0125,Truck,402 NCR,21,Inactive
+V0126,Bike,5C 5478G,8,Inactive
+V0127,Bike,AFV 641,21,Inactive
+V0128,Bike,WXH1181,32,Active
+V0129,Van,347 4458,32,Active
+V0130,Truck,AAP-083,34,Inactive
+V0131,Van,1Z ZH098,40,Inactive
+V0132,Car,031-VFNS,37,Inactive
+V0133,Van,9KZ77,17,Inactive
+V0134,Van,00E•855,12,Inactive
+V0135,Truck,QY4 4942,24,Inactive
+V0136,Car,8NB79,29,Inactive
+V0137,Van,RL 18900,38,Inactive
+V0138,Car,6P YR270,8,Inactive
+V0139,Bus,33-F222,5,Inactive
+V0140,Bike,260-YMZ,7,Inactive
+V0141,Car,676ZMQ,18,Inactive
+V0142,Van,BBV-612,25,Maintenance
+V0143,Bus,FI-4931,31,Inactive
+V0144,Bus,4KR5714,18,Maintenance
+V0145,Van,938-602,18,Maintenance
+V0146,Van,QF 61388,3,Inactive
+V0147,Bus,SUW 141,11,Maintenance
+V0148,Bike,2H593,15,Active
+V0149,Bus,081RCZ,18,Active
+V0150,Van,EMZ-752,37,Active
+V0151,Truck,7-34741Q,28,Active
+V0152,Car,546C,28,Inactive
+V0153,Truck,226 ZIV,6,Maintenance
+V0154,Bike,338 KXX,22,Maintenance
+V0155,Car,858 SPX,19,Inactive
+V0156,Bus,0RJ 945,32,Maintenance
+V0157,Car,574HVM,31,Active
+V0158,Van,748 9ZR,16,Maintenance
+V0159,Bus,OFA-3104,16,Maintenance
+V0160,Car,059 JPP,1,Maintenance
+V0161,Truck,CS6 W4X,28,Active
+V0162,Van,498-MHG,29,Active
+V0163,Truck,7JJ B19,8,Inactive
+V0164,Bus,230L,1,Inactive
+V0165,Truck,TES-9463,11,Active
+V0166,Bus,HZJ 596,40,Inactive
+V0167,Car,0UZ 669,32,Active
+V0168,Bus,ZWU 132,40,Inactive
+V0169,Van,255 GAH,32,Active
+V0170,Van,QGE-723,40,Active
+V0171,Bike,039 TBQ,40,Inactive
+V0172,Van,2YYE 21,26,Active
+V0173,Bike,133-XPJ,11,Inactive
+V0174,Van,ZUO1368,14,Active
+V0175,Car,018 SJU,40,Inactive
+V0176,Truck,963 4623,20,Active
+V0177,Truck,S28 6DB,38,Maintenance
+V0178,Bus,4QWJ 48,17,Maintenance
+V0179,Car,548U,27,Maintenance
+V0180,Bus,0-63518Q,15,Maintenance
+V0181,Truck,GLU 769,29,Active
+V0182,Bus,B93 0XE,12,Active
+V0183,Truck,GBF P51,23,Active
+V0184,Bike,NW6 1877,21,Inactive
+V0185,Car,67P-EIXG,8,Maintenance
+V0186,Bike,58-5513K,3,Inactive
+V0187,Truck,W83 7ED,22,Active
+V0188,Truck,359-RFC,28,Maintenance
+V0189,Bus,DPU3698,36,Inactive
+V0190,Bus,828 2FU,7,Maintenance
+V0191,Bus,OID-920,29,Maintenance
+V0192,Truck,7-9773G,7,Active
+V0193,Bike,325 8358,3,Active
+V0194,Van,BH6 5354,11,Maintenance
+V0195,Truck,035-RGP,35,Active
+V0196,Car,HCV 233,33,Maintenance
+V0197,Car,716 ZQV,17,Inactive
+V0198,Bus,MSV 757,37,Maintenance
+V0199,Bike,TZS-007,8,Active
+V0200,Bus,875 HTD,23,Active
+V0201,Truck,0MB 538,3,Inactive
+V0202,Bus,93Z 8426,7,Inactive
+V0203,Car,23-3540X,13,Maintenance
+V0204,Car,755 MZH,32,Maintenance
+V0205,Bike,APZ 564,36,Inactive
+V0206,Bike,W79 3ZJ,39,Inactive
+V0207,Car,987-JAX,6,Active
+V0208,Car,3B P4346,33,Inactive
+V0209,Bike,818 DVT,24,Active
+V0210,Car,WXN 5650,7,Inactive
+V0211,Bike,4P-HVBV,2,Inactive
+V0212,Truck,467-NGZ,22,Active
+V0213,Bike,HJS-6727,14,Maintenance
+V0214,Bike,HES 188,33,Active
+V0215,Truck,635 ZHD,2,Maintenance
+V0216,Bus,927-FTD,28,Maintenance
+V0217,Bus,MFM 045,6,Maintenance
+V0218,Bus,646-ZCL,27,Inactive
+V0219,Bus,782 MYB,33,Maintenance
+V0220,Car,0-B6162,15,Active
+V0221,Car,MFS9618,9,Maintenance
+V0222,Bike,866 XVO,30,Active
+V0223,Van,W01-LPJ,16,Inactive
+V0224,Truck,ZHR 921,32,Inactive
+V0225,Van,734IC,30,Maintenance
+V0226,Bus,B04 3BT,19,Inactive
+V0227,Bike,XDF 261,25,Active
+V0228,Bus,516-MZQ,20,Maintenance
+V0229,Truck,183 HVK,36,Active
+V0230,Truck,6G 7D8JYF,36,Inactive
+V0231,Truck,136 NB2,5,Inactive
+V0232,Bus,JIU 138,3,Maintenance
+V0233,Bike,956-KUM,7,Active
+V0234,Bike,4QQ 737,5,Active
+V0235,Truck,HUQ-725,21,Inactive
+V0236,Van,13WI3,37,Inactive
+V0237,Bus,D83 4QO,10,Active
+V0238,Bus,MEI 421,27,Inactive
+V0239,Truck,37Q Y08,8,Active
+V0240,Van,84WQ179,33,Inactive
+V0241,Bus,23F•011,28,Inactive
+V0242,Car,640 KGX,17,Active
+V0243,Truck,602 LLQ,27,Active
+V0244,Bus,7CVN 20,7,Maintenance
+V0245,Van,65Z 0977,19,Maintenance
+V0246,Bus,137-GFR,6,Maintenance
+V0247,Van,4MB5299,24,Inactive
+V0248,Bus,368 9OT,7,Maintenance
+V0249,Car,93-NE90,29,Active
+V0250,Bus,ADY 301,32,Active
+V0251,Car,WZP A46,33,Maintenance
+V0252,Car,281 QLT,3,Active
+V0253,Van,71MJ414,18,Active
+V0254,Truck,SOU 094,30,Maintenance
+V0255,Car,9ZZ 876,16,Maintenance
+V0256,Car,316 5ZN,38,Maintenance
+V0257,Bus,D32 6EZ,11,Maintenance
+V0258,Bus,138-BOT,21,Maintenance
+V0259,Car,PY4 G1B,36,Active
+V0260,Van,VGX 672,16,Inactive
+V0261,Truck,5IQ9855,16,Maintenance
+V0262,Bike,LBM 489,32,Maintenance
+V0263,Car,6-05165K,26,Active
+V0264,Car,25-7685F,22,Active
+V0265,Bike,CPG 621,29,Active
+V0266,Bike,KKK 100,17,Maintenance
+V0267,Car,ANW 368,30,Maintenance
+V0268,Truck,Y74 8CM,28,Inactive
+V0269,Car,052 UCU,31,Inactive
+V0270,Truck,6-1336Q,27,Maintenance
+V0271,Bike,MPR 730,18,Active
+V0272,Van,BVB 225,13,Active
+V0273,Bus,576-681,29,Maintenance
+V0274,Van,U58 0YK,34,Inactive
+V0275,Car,9FV6434,9,Maintenance
+V0276,Truck,NFQ-054,1,Active
+V0277,Car,HS8 3624,20,Inactive
+V0278,Van,200 EPH,10,Inactive
+V0279,Truck,7MW T15,29,Inactive
+V0280,Car,3409 YM,1,Maintenance
+V0281,Bike,CCE-614,20,Maintenance
+V0282,Car,7QC 429,20,Inactive
+V0283,Truck,449 6LA,22,Inactive
+V0284,Van,VCQ 342,40,Maintenance
+V0285,Truck,CUO-519,28,Maintenance
+V0286,Van,9SSB 21,5,Active
+V0287,Truck,289-NMB,39,Inactive
+V0288,Bike,421 MMI,38,Active
+V0289,Bike,Z67-QVZ,8,Inactive
+V0290,Van,86T 7013,17,Inactive
+V0291,Truck,0-07894C,4,Maintenance
+V0292,Bike,BQ2 G1A,11,Maintenance
+V0293,Truck,433VXM,35,Maintenance
+V0294,Bus,710 IYW,14,Maintenance
+V0295,Bus,A73 3RC,34,Active
+V0296,Bus,786K,15,Inactive
+V0297,Van,LTI 833,13,Active
+V0298,Car,278 1280,34,Active
+V0299,Car,JWV-2048,13,Inactive
+V0300,Van,423-PAZ,34,Inactive
+V0301,Bus,OIZ 846,5,Maintenance
+V0302,Car,80U O73,30,Maintenance
+V0303,Bike,097AQL,17,Active
+V0304,Bus,ZVU-488,16,Inactive
+V0305,Van,3TA 742,28,Maintenance
+V0306,Bike,UJ6 X9Y,32,Maintenance
+V0307,Bus,623-PUL,21,Maintenance
+V0308,Van,LKT-4696,33,Maintenance
+V0309,Van,4XS85,35,Active
+V0310,Truck,7P 2134J,11,Active
+V0311,Bus,967 HML,33,Inactive
+V0312,Car,VZF 982,20,Inactive
+V0313,Truck,3CQZ 30,6,Maintenance
+V0314,Bus,835-TUN,36,Inactive
+V0315,Truck,9GZP 73,32,Inactive
+V0316,Car,889 YOM,2,Maintenance
+V0317,Bus,79P•937,3,Inactive
+V0318,Truck,931 WLD,8,Inactive
+V0319,Truck,2WW 932,10,Active
+V0320,Car,KLN 805,19,Active
+V0321,Bike,4MD 463,10,Active
+V0322,Car,2JRG 97,19,Inactive
+V0323,Van,808575,23,Inactive
+V0324,Bus,MAN 2613,20,Inactive
+V0325,Bike,395 WCS,2,Active
+V0326,Car,896PAK,35,Maintenance
+V0327,Truck,BFR-2822,12,Active
+V0328,Bike,FFG-602,20,Maintenance
+V0329,Van,GUP-9913,2,Maintenance
+V0330,Bike,SHP 284,20,Inactive
+V0331,Bus,HO 27218,30,Active
+V0332,Van,OEE 300,6,Active
+V0333,Van,3X979,40,Inactive
+V0334,Truck,4OB8535,28,Maintenance
+V0335,Van,299I,38,Maintenance
+V0336,Car,56-09681,33,Active
+V0337,Truck,3A 1062L,19,Inactive
+V0338,Van,RNQ 7037,23,Maintenance
+V0339,Car,1O-XQAY,16,Active
+V0340,Car,718 4RC,17,Maintenance
+V0341,Bus,1C R3445,33,Inactive
+V0342,Car,81Y•595,38,Active
+V0343,Bike,96-KP49,5,Inactive
+V0344,Van,QJ 14738,10,Inactive
+V0345,Truck,H24 1US,28,Inactive
+V0346,Bus,106 AMB,40,Maintenance
+V0347,Bus,751 YP1,5,Active
+V0348,Bus,ZXY 018,13,Active
+V0349,Truck,267 FKI,27,Maintenance
+V0350,Truck,AES-154,3,Maintenance
+V0351,Bus,99Z OW5,14,Active
+V0352,Van,4-4167Z,18,Active
+V0353,Truck,LKV 684,31,Maintenance
+V0354,Car,265V8,3,Active
+V0355,Van,1F-MULR,35,Maintenance
+V0356,Car,MZI 340,20,Maintenance
+V0357,Van,544-XVC,12,Maintenance
+V0358,Bike,224 CTM,28,Maintenance
+V0359,Truck,3WR 257,8,Active
+V0360,Bike,3085 BF,31,Maintenance
+V0361,Bike,OX5 0028,3,Maintenance
+V0362,Car,LJR 416,32,Inactive
+V0363,Car,RTO 555,8,Active
+V0364,Car,990TV,9,Active
+V0365,Van,041M,33,Inactive
+V0366,Bus,5H LX435,20,Maintenance
+V0367,Truck,NI 46421,36,Inactive
+V0368,Bike,LVX 410,11,Inactive
+V0369,Bus,NOP A93,19,Maintenance
+V0370,Bike,MVA 271,7,Active
+V0371,Bus,95T•574,19,Maintenance
+V0372,Van,499-AZA,26,Maintenance
+V0373,Car,7GJ C24,20,Active
+V0374,Bike,HUX-290,6,Active
+V0375,Bus,407 3687,7,Inactive
+V0376,Bus,MMJ 707,6,Maintenance
+V0377,Truck,5R QK015,20,Maintenance
+V0378,Car,104 EUR,10,Maintenance
+V0379,Car,R26 0JU,5,Active
+V0380,Truck,9MY95,18,Inactive
+V0381,Car,175-MCO,13,Inactive
+V0382,Car,496-GNVM,12,Active
+V0383,Van,TJX 041,5,Inactive
+V0384,Car,HNB 751,40,Maintenance
+V0385,Bus,90-F578,1,Active
+V0386,Car,15O S62,10,Active
+V0387,Car,SRG-5224,2,Maintenance
+V0388,Bus,0HA 189,14,Active
+V0389,Car,100 TYZ,18,Inactive
+V0390,Truck,18U 9639,4,Inactive
+V0391,Bike,QB-6099,20,Maintenance
+V0392,Car,SCR-7654,18,Inactive
+V0393,Van,ZMS 123,20,Maintenance
+V0394,Car,V29-72Q,12,Maintenance
+V0395,Van,68-2584L,40,Maintenance
+V0396,Van,MNY 930,38,Inactive
+V0397,Bus,LGN 967,13,Active
+V0398,Car,60-ZO42,17,Maintenance
+V0399,Bike,HJD-140,2,Inactive
+V0400,Bike,2-46818V,9,Active
+V0401,Van,NBF-7832,24,Maintenance
+V0402,Car,INU 214,20,Maintenance
+V0403,Car,09FQ195,38,Maintenance
+V0404,Car,3G 2X9BBL,16,Inactive
+V0405,Car,0N 3077Z,23,Active
+V0406,Car,OK4 1415,1,Active
+V0407,Bus,421-PYC,4,Maintenance
+V0408,Car,601 3SP,3,Active
+V0409,Truck,UHB-9955,36,Active
+V0410,Bus,2X 2D4GHU,21,Maintenance
+V0411,Bus,749SH,5,Maintenance
+V0412,Van,308-TIJ,26,Inactive
+V0413,Van,775 JJC,28,Active
+V0414,Van,1UK 642,7,Inactive
+V0415,Car,745 JHY,26,Maintenance
+V0416,Bike,967RMO,38,Inactive
+V0417,Car,DT 2394,21,Active
+V0418,Truck,64JO8,19,Maintenance
+V0419,Bus,00PU9,28,Active
+V0420,Van,4LW6112,19,Active
+V0421,Van,7-C4167,29,Active
+V0422,Van,060 XJD,1,Maintenance
+V0423,Van,3-95921Z,31,Maintenance
+V0424,Car,248-IQR,36,Active
+V0425,Truck,9YW B30,10,Maintenance
+V0426,Van,ZGS 217,38,Inactive
+V0427,Bike,YCG1010,3,Active
+V0428,Car,9Z 9O0SXI,34,Active
+V0429,Van,IEC7051,17,Inactive
+V0430,Bike,185-YNX,8,Maintenance
+V0431,Bus,WRO-842,35,Inactive
+V0432,Van,OQA3006,23,Maintenance
+V0433,Van,58-Q650,12,Inactive
+V0434,Bike,33T A89,17,Active
+V0435,Car,368 KGY,19,Inactive
+V0436,Van,5-1256X,36,Inactive
+V0437,Car,054 3039,39,Inactive
+V0438,Car,IQQ 831,24,Active
+V0439,Bus,267 DGX,25,Active
+V0440,Bike,316VN,24,Active
+V0441,Truck,453 ZKE,29,Maintenance
+V0442,Truck,00L G53,38,Maintenance
+V0443,Bus,5918,8,Maintenance
+V0444,Truck,28YX667,19,Maintenance
+V0445,Car,8B 1997X,4,Active
+V0446,Bike,8Y 8836P,18,Active
+V0447,Truck,369 NDO,32,Maintenance
+V0448,Van,032 7LI,3,Inactive
+V0449,Van,37A OJ4,38,Active
+V0450,Car,483FXN,18,Active
+V0451,Car,8-51034,36,Inactive
+V0452,Car,579 REC,39,Maintenance
+V0453,Car,482 AAQ,23,Active
+V0454,Bus,G 172858,30,Active
+V0455,Bike,YAN-6227,34,Inactive
+V0456,Bus,398-UVP,6,Inactive
+V0457,Bus,1-C2038,8,Inactive
+V0458,Bike,ZUH-7871,6,Active
+V0459,Van,80-8493L,2,Inactive
+V0460,Truck,535-JZRV,13,Inactive
+V0461,Truck,J 821697,18,Maintenance
+V0462,Car,8UY6996,28,Inactive
+V0463,Truck,47-ZE83,25,Maintenance
+V0464,Bike,VOC 419,12,Maintenance
+V0465,Truck,2-1864H,13,Active
+V0466,Bus,594 0GJ,14,Inactive
+V0467,Bus,KJH 705,9,Active
+V0468,Car,1UH A95,4,Maintenance
+V0469,Bus,OUT 371,10,Maintenance
+V0470,Bus,2TE 600,15,Active
+V0471,Van,IFY 736,38,Active
+V0472,Car,T27 3XZ,22,Maintenance
+V0473,Bus,BX 11767,14,Maintenance
+V0474,Truck,165 KIA,17,Inactive
+V0475,Bus,YOU-4087,12,Active
+V0476,Car,TXG 5308,33,Inactive
+V0477,Bike,T87-YSM,32,Maintenance
+V0478,Bus,99C TA3,13,Active
+V0479,Bike,11ZA1,16,Maintenance
+V0480,Bike,1NQ5420,21,Active
+V0481,Car,MBH 813,5,Inactive
+V0482,Van,2GP0584,9,Inactive
+V0483,Car,8295,35,Inactive
+V0484,Bus,868-ITX,4,Inactive
+V0485,Bus,BXW 657,24,Maintenance
+V0486,Bus,2H 91424,32,Inactive
+V0487,Bus,610 GDS,19,Inactive
+V0488,Bike,ZHI 502,2,Active
+V0489,Van,96-06940,23,Inactive
+V0490,Bike,34-2111J,16,Maintenance
+V0491,Bike,QNB 312,15,Inactive
+V0492,Car,1-67289A,11,Active
+V0493,Car,46-66857,26,Maintenance
+V0494,Van,53-N805,27,Active
+V0495,Bike,9-Q1235,40,Active
+V0496,Bus,7V 76048,13,Active
+V0497,Truck,MUS 255,36,Active
+V0498,Bus,ZKG 026,1,Maintenance
+V0499,Bus,6-3144T,10,Inactive
+V0500,Bus,O76-77S,1,Active
